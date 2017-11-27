@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <title>Jasper - Front End Developer</title>
+      <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+      <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat:400,600" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+      <!--[if lte IE 9]>
+      <link href="css/ie9.css" rel="stylesheet">
+      <![endif]-->
+      <script src="js/modernizr.js"></script>
+   </head>
+   <body>
+   <div class="firstblock">
+   <div class="homeContent">
+   <div>
+   <img src="images/profile.jpg" alt="Jasper Koilraj" width="80" height="80">
+   <h1>Jasper Koilraj</h1>
+   <h4>Front End Engineer</h4>
+   <h5>3 Years of Experience</h5>
+   <ul>
+      <li><a href="mailto:jasper.koilraj@yahoo.com"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+      <li><a href="https://www.facebook.com/jasperkoilraj" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/jasperkoilraj/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+   </ul>
+   </div>
+   </div>
+   </div>
+   <div class="secondblock">
+   <div class="aboutMe">
+      <div>
+      <h2>Hi, Wanna know about me</h2>
+      <p>I develop websites. That's the long and short of it. UI and UX, Sketch, Illustrator, Potatoshop and pretty decent HTML and CSS — with Sass and that nice Susy grid stuff.</p>
+      <p>I've been going at it for a while now, so yea, it's coming along... Still putting users first, still making shit POP!</p>
+      <p>Feel free to drop me a few lines of garbled text in the contact form below to see if it does anything interesting. </p>
+      </div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>I live in Caniuse.com where I learn about Browser Compatibility</p>
+   </div>
+   </div>
+   <div class="thirdblock">
+   <div>
+   <div>
+   <h3>Front End Skills</h3>
+   <ul>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Javascript</li>
+   <li>EcmaScript 6</li>
+   <li>jQuery</li>
+   <li>ReactJS</li>
+   <li>SVG</li>
+   <li>Canvas</li>
+   <li>SASS / SCSS</li>
+   <li>Grunt<li>
+   <li>JSON</li>
+   <li>Bootstrap</li>
+   </ul>
+   </div>
+   </div>
+   <div>
+   <div>
+   <h3>Back End Skills</h3>
+   <ul>
+   <li>PHP</li>
+   <li>MySQL</li>
+   <li>Codeigniter</li>
+   <li>Wordpress</li>
+   <li>Third Party API Integration</li>
+   <li>Payment Gateway Integration</li>
+   </ul>
+   <h3>What I Use</h3>
+   <ul>
+   <li>Google Analytics</li>
+   <li>Google Webmaster</li>
+   <li>Domain Configuration with server</li>
+   <li>Sublime Text Editor</li>
+   <li>Adobe Photoshop</li>
+   <li>Adobe Illustrator</li>
+   <li>MS Office</li>
+   </ul>
+   </div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>I prefer CSS Flexbox and Grid for layout rather than CSS Framework</p>
+   </div>
+   </div>
+   <div class="fourthblock">
+   <h2 class="text-center">Portfolio</h2>
+   <div class="gridLayout">
+   <div>
+   <div class="coverBG" data-bg="images/portfolio11.jpg">
+   <a href="http://coralinfikids.com/" target="_blank">
+   <div>
+   <h4>Coralinfikids</h4>
+   <p>A website for Playschool</p>
+   </div>
+   </a>
+   </div>
+   </div>
+   <div><div class="coverBG" data-bg="images/portfolio14.jpg">
+   <a href="http://www.metacuae.com/" target="_blank">
+   <div>
+   <h4>Metac</h4>
+   <p>A website for Real Estate Company</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio4.jpg">
+   <a href="http://www.infinitytravel.ae/" target="_blank">
+   <div>
+   <h4>Infinity Travels</h4>
+   <p>A website for Air Tickets Booking</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio5.jpg">
+   <a href="http://www.treasurestt.com/" target="_blank">
+   <div>
+   <h4>Travel Treasures</h4>
+   <p>A website for Flight Booking</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio6.jpg">
+   <a href="http://www.vollsupermarket.com/" target="_blank">
+   <div>
+   <h4>Voll Supermarket</h4>
+   <p>A website for Supermarket</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio7.jpg">
+   <a href="http://worldinmycoffeecup.com/" target="_blank">
+   <div>
+   <h4>World in my Coffee Cup</h4>
+   <p>A website for Travel Blogger</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio8.jpg">
+   <a href="http://www.nipponpaint.co.in/" target="_blank">
+   <div>
+   <h4>Nippon Paint</h4>
+   <p>A website for Paint Company</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio9.jpg">
+   <a href="http://www.metech.com/" target="_blank">
+   <div>
+   <h4>Metech</h4>
+   <p>A website for Technology Company</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio10.jpg">
+   <a href="http://www.gromaxx.ae/" target="_blank">
+   <div>
+   <h4>Gromaxx</h4>
+   <p>A website for Hotel</p>
+   </div>
+   </a>
+   </div></div>
+   <div><div class="coverBG" data-bg="images/portfolio21.jpg">
+   <a href="http://www.vurvesalon.com/" target="_blank">
+   <div>
+   <h4>Vurve</h4>
+   <p>A website for Salon</p>
+   </div>
+   </a>
+   </div></div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>A Website for Non profit Organization</p>
+   </div>
+   </div>
+   <div class="singleProject coverBG" data-bg="images/andreas-weiland.jpg">
+   <div class="causeBox">
+   <div>
+   <div>
+   <h2>Uyirkkural</h2>
+   <p>I had developed Front end for Uyirkkural which translates as ‘Voice of Life’ is the voice of a community answering the call to build a Culture of Life. We are a non profit that firmly believes in the participation through direct human efforts, time and spiritual involvement.</p>
+   <a href="http://www.uyirkkural.com/" class="btn primary">Visit Site</a>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>I Designed. I Developed. I Integrated Payment. New Futuristic E-Commerce</p>
+   </div>
+   </div>
+   <div class="sideWay">
+   <div class="coverBG" data-bg="images/yummyseeds.jpg"></div>
+   <div>
+   <div>
+   <h2>Yummy Seeds</h2>
+   <p>Yummy Seeds will change the course of UX and UI for E-Commerce. It completely focused on simplicity and user easy buy process. This takes to new level and futuristic to E-Commerce Platform. I created it in single hand by doing both Front and Back End Development. Below listed are used to make Yummy Seeds.</p>
+   <div class="twowayJoint">
+   <div>
+   <h4>Front End</h4>
+   <ul>
+   <li>HTML5</li>
+   <li>CSS</li>
+   <li>jQuery</li>
+   <li>SASS</li>
+   <li>Grunt</li>
+   <li>FontAwesome</li>
+   </ul>
+   </div>
+   <div>
+   <h4>Back End</h4>
+   <ul>
+   <li>Codeigniter</li>
+   <li>MySQL</li>
+   </ul>
+   </div>
+   </div>
+   <a href="http://www.yummyseeds.com/" class="btn primary">Visit Site</a>
+   </div>
+   </div>
+   </div>
+   <div class="singleProject coverBG topCover" data-bg="images/yummyseeds.jpg">
+   <div class="causeBox slideChange">
+   <div>
+   <div>
+   <h2>Yummy Seeds</h2>
+   <p>Yummy Seeds will change the course of UX and UI for E-Commerce. It completely focused on simplicity and user easy buy process. This takes to new level and futuristic to E-Commerce Platform. I created it in single hand by doing both Front and Back End Development. Below listed are used to make Yummy Seeds.</p>
+   <div class="twowayJoint">
+   <div>
+   <h3>Front End</h3>
+   <ul>
+   <li>HTML5</li>
+   <li>CSS</li>
+   <li>jQuery</li>
+   <li>SASS</li>
+   <li>Grunt</li>
+   <li>FontAwesome</li>
+   </ul>
+   </div>
+   <div>
+   <h3>Back End</h3>
+   <ul>
+   <li>Codeigniter</li>
+   <li>MySQL</li>
+   </ul>
+   </div>
+   </div>
+   <a href="http://www.yummyseeds.com/" class="btn primary">Visit Site</a>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>Designed and Developed both Front &amp; Back End for E-Commerce Site</p>
+   </div>
+   </div>
+   <div class="singleProject coverBG topCover" data-bg="images/star1hash2.jpg">
+   <div class="causeBox">
+   <div>
+   <div>
+   <h2>Star1hash</h2>
+   <p>This site shows best example of How much I have knowledge in designing and develop both Front and Back end. Also integrated CCAveneue Payment Gateway with Star1hash to get pay from Customer. No E-Commerce platform was used like Magento. Everything has been created from scratch. Below listed are used to make Star1hash.</p>
+   <div class="twowayJoint">
+   <div>
+   <h3>Front End</h3>
+   <ul>
+   <li>HTML5</li>
+   <li>CSS</li>
+   <li>jQuery</li>
+   <li>SASS</li>
+   <li>Grunt</li>
+   <li>FontAwesome</li>
+   </ul>
+   </div>
+   <div>
+   <h3>Back End</h3>
+   <ul>
+   <li>Codeigniter</li>
+   <li>MySQL</li>
+   </ul>
+   </div>
+   </div>
+   <a href="http://www.star1hash.com/" class="btn primary">Visit Site</a>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="blockQuote">
+   <div class="container">
+   <p>Feel free to contact me</p>
+   </div>
+   </div>
+   <div class="contactMe">
+   <div>
+   <h3 class="bgblackAnimate">Do you speak Na’vi? It's ok if you don't, I speak English too.</h3>
+   <p>Write a email...</p>
+   <ul>
+   <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:jasper.koilraj@yahoo.com">jasper.koilraj@yahoo.com</a></li>
+   <!--
+   <li><i class="fa fa-facebook" aria-hidden="true"></i><a href="https://www.facebook.com/jasperkoilraj" target="_blank">@jasperkoilraj</a></li>
+   <li><i class="fa fa-linkedin" aria-hidden="true"></i><a href="https://www.linkedin.com/in/jasperkoilraj" target="_blank">@jasperkoilraj</a></li>
+   -->
+   </ul>
+   <p>Connect with me...</p>
+   <ul>
+   <li><i class="fa fa-facebook" aria-hidden="true"></i><a href="https://www.facebook.com/jasperkoilraj" target="_blank">@jasperkoilraj</a></li>
+   <li><i class="fa fa-twitter" aria-hidden="true"></i><a href="https://twitter.com/jasperkoilraj" target="_blank">@jasperkoilraj</a></li>
+   <li><i class="fa fa-linkedin" aria-hidden="true"></i><a href="https://www.linkedin.com/in/jasperkoilraj" target="_blank">@jasperkoilraj</a></li>
+   </ul>
+   </div>
+   </div>
+   <footer>
+   <span>&copy; Made by Jasper</span>
+   </footer>
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <script src="js/main.min.js"></script>
+   </body>
+</html>

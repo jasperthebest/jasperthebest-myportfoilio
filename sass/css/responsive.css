@@ -1,0 +1,54 @@
+@media screen and (max-width:1250px) {
+	.container { width: auto; }
+	.causeBox>div { padding: 50px; }
+}
+@media screen and (max-width:1023px) {
+	.animated {
+	opacity: 1 !important;
+	visibility: visible !important;
+	-webkit-animation-name: none !important;
+	-moz-animation-name: none !important;
+	animation-name: none !important;
+	-webkit-animation-duration: 0s !important;
+	-moz-animation-duration: 0s !important;
+	animation-duration: 0s !important;
+	-webkit-animation-delay: 0s !important;
+	-moz-animation-delay: 0s !important;
+	animation-delay: 0s !important;
+	}
+	.firstblock { background-color: #f06457; }
+	.secondblock { background-color: #344055; }
+	.firstblock:before, .secondblock:before { display: none; }
+	.blockQuote p { line-height: 38px; }
+	.gridLayout { grid-template-rows: repeat(8, 300px); grid-template-columns: repeat(2, 1fr); }
+	.gridLayout>div:last-child { /* grid-column: 1/3; grid-row: 7/9; */ grid-column: span 2; grid-row: span 2; }
+	.sideWay>div:last-child>div { width: 100%; }
+	.causeBox>div { padding: 50px 30px; width: 100%; }
+	.singleProject { background-attachment: scroll; }
+}
+@media screen and (max-width:767px) {
+	.thirdblock>div { width: 100%; }
+	.thirdblock>div:last-child:before { animation-name: slicksidemobile; -webkit-animation-name: slicksidemobile; -moz-animation-name: slicksidemobile; }
+	.thirdblock>div:last-child:after { height: calc(100% - 20%); width: 100%; }
+	.sideWay>div { width: 100%; }
+	.sideWay.changePart { -webkit-flex-direction: row; -moz-flex-direction: row; flex-direction: row; -ms-flex-direction: row; }
+	.sideWay>div.coverBG { background: none; }
+	.sideWay>div.coverBG img { display: block; }
+	.sideWay>div:last-child>div { padding: 30px 15px 40px; }
+}
+@media screen and (max-width:640px) {
+	[class^='col-xs-'] { float:none; width:100%; }
+	.gridLayout { grid-template-rows: repeat(10, 320px); grid-template-columns: 1fr; grid-gap: 30px 0; }
+	.gridLayout>div:first-child, .gridLayout>div:last-child { grid-row: span 1; grid-column: span 1; }
+	.blockQuote p { font-size: 21px; line-height: 32px; }
+}
+@media screen and (max-width:500px) {
+	.thirdblock>div ul li { font-size: 16px; }
+}
+@media screen and (max-width:400px) {
+	.contactMe h3 { font-size: 19px; }
+	.contactMe a { font-size: 20px; }
+}
+@media screen and (max-width:340px) {
+	.contactMe h3 { font-size: 17px; }
+}
