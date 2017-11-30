@@ -14,14 +14,14 @@
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
       <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat:400,600" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
-      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <!-- Global site tag (gtag.js) - Google Analytics
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110447046-1"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'UA-110447046-1');
-      </script>
+      </script>-->
       <script src="js/modernizr.js"></script>
    </head>
    <body>
