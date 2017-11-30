@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-      <title>Jasper - Front End Developer</title>
+      <title>Jasper Koilraj - Front End Developer</title>
       <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
       <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
@@ -14,15 +14,14 @@
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
       <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat:400,600" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
-      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-      <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
-      <!--[if lte IE 9]>
-      <link href="css/ie9.css" rel="stylesheet">
-      <![endif]-->
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110447046-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-110447046-1');
+      </script>
       <script src="js/modernizr.js"></script>
    </head>
    <body>
@@ -30,7 +29,7 @@
    <div class="homeContent">
    <div>
    <img src="images/profile.jpg" alt="Jasper Koilraj" width="80" height="80">
-   <h1 data-animated="fadeInUp">Jasper</h1>
+   <h1 data-animated="fadeInUp"><div>J</div><span>a</span><span>s</span><span>p</span><span>e</span><span>r</span> <div>K</div><span>o</span><span>i</span><span>l</span><span>r</span><span>a</span><span>j</span></h1>
    <h4 data-animated="fadeInUp">Front End Engineer</h4>
    <h5 data-animated="fadeInUp">3 Years of Experience</h5>
    <ul>
