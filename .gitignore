@@ -1,4 +1,5 @@
 .sass-cache
+node_modules
 images/realimg
 node_modules
 sass/bourbon
