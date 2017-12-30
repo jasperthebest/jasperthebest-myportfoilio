@@ -25,6 +25,10 @@
 	.sideWay>div:last-child>div { width: 100%; }
 	.causeBox>div { padding: 50px 30px; width: 100%; }
 	.singleProject { background-attachment: scroll; }
+	.blockQuote p { font-size: 22px; line-height: 30px; }
+	.blockQuote p { font-size: 20px; }
+	.fourthblock h2 { padding-bottom: 30px; }
+	.blockQuote { padding: 30px 10px; }
 }
 @media screen and (max-width:767px) {
 	.thirdblock>div { width: 100%; }
@@ -35,12 +39,25 @@
 	.sideWay>div.coverBG { background: none; }
 	.sideWay>div.coverBG img { display: block; }
 	.sideWay>div:last-child>div { padding: 30px 15px 40px; }
+	.blockQuote p { font-size: 20px; }
+	.fourthblock h2 { padding-bottom: 25px; }
 }
 @media screen and (max-width:640px) {
 	[class^='col-xs-'] { float:none; width:100%; }
+	.gridLayout>div { box-shadow: 0 15px 30px rgba(0,0,0,0.15); }
 	.gridLayout { grid-template-rows: repeat(10, 320px); grid-template-columns: 1fr; grid-gap: 30px 0; }
 	.gridLayout>div:first-child, .gridLayout>div:last-child { grid-row: span 1; grid-column: span 1; }
 	.blockQuote p { font-size: 21px; line-height: 32px; }
+	.gridLayout>div>div div { -webkit-transform: translateY(0); -moz-transform: translateY(0); -ms-transform: translateY(0); -o-transform: translateY(0); transform: translateY(0); }
+	.gridLayout>div:first-child>div div h4, .gridLayout>div:last-child>div div h4 { font-size: 16px; padding-bottom: 0; }
+	.gridLayout>div:first-child>div div p, .gridLayout>div:last-child>div div p { font-size: 14px; padding-bottom: 10px; }
+	.gridLayout>div>div div, .gridLayout>div:first-child>div div, .gridLayout>div:last-child>div div { padding: 10px 15px 0; }
+	.causeBox>div h2 { padding-bottom: 18px; }
+	.blockQuote p { font-size: 18px; }
+	.fourthblock h2 { padding-bottom: 20px; }
+	.blockQuote { padding: 25px 10px; }
+	h2 { font-size: 23px; }
+	h3 { font-size: 21px; }
 }
 @media screen and (max-width:500px) {
 	.thirdblock>div ul li { font-size: 16px; }

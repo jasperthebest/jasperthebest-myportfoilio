@@ -248,9 +248,9 @@ a { color: #333; @extend .transitionRegular; }
     }
   }
 }
-.blockQuote { background-color: #444; box-shadow: 0 2px 10px 0 rgba(0,0,0,0.5); padding: 25px 10px 10px; position: relative; text-align: center; z-index: 9;
-  &:before { background-color: #444; bottom: 0; content: ''; height: 100px; left: 0; position: absolute; width: 100%; z-index: -1; }
-  p { color: #FFF; font-size: 24px; line-height: 32px; }
+.blockQuote { background-color: #444; box-shadow: 0 2px 10px 0 rgba(0,0,0,0.5); padding: 35px 10px; position: relative; text-align: center; z-index: 9;
+  /* &:before { background-color: #444; bottom: 0; content: ''; height: 100px; left: 0; position: absolute; width: 100%; z-index: -1; } */
+  p { color: #FFF; font-size: 24px; line-height: 32px; padding-bottom: 0; }
 }
 .fourthblock { background-color: #FFF; min-height: 100vh; position: relative; padding: 50px 20px; overflow: hidden;
   h2 { letter-spacing: 1px; padding-bottom: 40px; text-transform: uppercase; }

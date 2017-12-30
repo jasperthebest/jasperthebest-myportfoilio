@@ -64,9 +64,10 @@
    <li data-animated="fadeInUp">HTML</li>
    <li data-animated="fadeInUp">CSS</li>
    <li data-animated="fadeInUp">Javascript</li>
-   <li data-animated="fadeInUp">EcmaScript 6</li>
-   <li data-animated="fadeInUp">jQuery</li>
+   <li data-animated="fadeInUp">ECMAScript 6</li>
    <li data-animated="fadeInUp">ReactJS</li>
+   <li data-animated="fadeInUp">Responsive Webpages</li>
+   <li data-animated="fadeInUp">jQuery</li>
    <li data-animated="fadeInUp">SVG</li>
    <li data-animated="fadeInUp">Canvas</li>
    <li data-animated="fadeInUp">SASS / SCSS</li>
@@ -89,6 +90,7 @@
    </ul>
    <h3 data-animated="fadeInUp">What I Use</h3>
    <ul>
+   <li data-animated="fadeInUp">Github</li>
    <li data-animated="fadeInUp">Google Analytics</li>
    <li data-animated="fadeInUp">Google Webmaster</li>
    <li data-animated="fadeInUp">Domain Configuration with server</li>
@@ -221,7 +223,7 @@
    <div>
    <h2 data-animated="fadeInUp">Uyirkkural</h2>
    <p data-animated="fadeInUp">I had developed Front end for Uyirkkural which translates as ‘Voice of Life’ is the voice of a community answering the call to build a Culture of Life. We are a non profit that firmly believes in the participation through direct human efforts, time and spiritual involvement.</p>
-   <a data-animated="fadeInUp" href="http://www.uyirkkural.com/" class="btn primary">Visit Site</a>
+   <a data-animated="fadeInUp" target="_blank" href="http://www.uyirkkural.com/" class="btn primary">Visit Site</a>
    </div>
    </div>
    </div>
@@ -260,7 +262,7 @@
    </ul>
    </div>
    </div>
-   <a data-animated="fadeInUp" href="http://www.yummyseeds.com/" class="btn primary">Visit Site</a>
+   <a data-animated="fadeInUp" target="_blank" href="http://www.yummyseeds.com/" class="btn primary">Visit Site</a>
    </div>
    </div>
    </div>
@@ -297,7 +299,7 @@
    </ul>
    </div>
    </div>
-   <a data-animated="fadeInUp" href="http://www.star1hash.com/" class="btn primary">Visit Site</a>
+   <a data-animated="fadeInUp" target="_blank" href="http://www.star1hash.com/" class="btn primary">Visit Site</a>
    </div>
    </div>
    </div>
